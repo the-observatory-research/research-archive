@@ -1,0 +1,7 @@
+a3f6e29ac652835f69bb0146d3782eae57177b0c0adceedbc735269b79bc6fc7  Differentiated Convergence V1.0.md
+eb5470534b05e611229e56caaf7176f5ae05abf8a67a6e6a94b8e703eb73da31  Decoupled Architecture V1.0.md
+548a29b2edbd65d3f2e1d960037f9c34d6fe5b58fe857dc1e2e784df33b9619b  The Environment Substrate V1.0.md
+823caea4511546dcfecf4454185fce8c1bf143b6259b900fbaee3ea728d73848  Zero Point Protocol  V1.0.md
+45ea2e3580c7dcd8eb76db5e546a0e0f3197917be127244f9ff7bda18327a29d  Source Locked Architecture V1.0.md
+e8fef2eee664bb5f1961af2fe9a5e1d449a81a2a9ba7e2ec4b32345d798e11ad  Semantic Coherence Index V1.0.md
+a1d8aff99653a54465a0a1de3e3c65f3bfd65d311fc33bff1363d2c1e37493b3  Multi-Agent Architecture V1.0.md

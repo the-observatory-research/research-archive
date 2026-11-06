@@ -1,0 +1,84 @@
+{
+  "collection": "The Observatory — Research Publications",
+  "source_archive": "Publications.zip",
+  "manuscript_count": 7,
+  "publications": [
+    {
+      "title": "Differentiated Convergence",
+      "filename": "Differentiated Convergence V1.0.md",
+      "description": "Formal framework for relational invariance and structural recoverability across differentiated systems",
+      "doi": "10.5281/zenodo.23637036",
+      "doi_url": "https://doi.org/10.5281/zenodo.23637036",
+      "version": "1.0",
+      "category": "Formal framework",
+      "sha256": "a3f6e29ac652835f69bb0146d3782eae57177b0c0adceedbc735269b79bc6fc7",
+      "size_bytes": 309037
+    },
+    {
+      "title": "Decoupled Inference Architecture",
+      "filename": "Decoupled Architecture V1.0.md",
+      "description": "Separating probabilistic reasoning from runtime control, persistence, measurement and verification",
+      "doi": "10.5281/zenodo.23637542",
+      "doi_url": "https://doi.org/10.5281/zenodo.23637542",
+      "version": "1.0",
+      "category": "Architecture framework",
+      "sha256": "eb5470534b05e611229e56caaf7176f5ae05abf8a67a6e6a94b8e703eb73da31",
+      "size_bytes": 36593
+    },
+    {
+      "title": "The Environment as a Candidate Substrate for Conscious Organization",
+      "filename": "The Environment Substrate V1.0.md",
+      "description": "A causal investigation of state, representation, memory, feedback and candidate environmental substrates",
+      "doi": "10.5281/zenodo.23791020",
+      "doi_url": "https://doi.org/10.5281/zenodo.23791020",
+      "version": "1.0",
+      "category": "Research study publication",
+      "sha256": "548a29b2edbd65d3f2e1d960037f9c34d6fe5b58fe857dc1e2e784df33b9619b",
+      "size_bytes": 130268
+    },
+    {
+      "title": "Zero-Point Protocol",
+      "filename": "Zero Point Protocol  V1.0.md",
+      "description": "Retrospective account of scoring, calibration, consensus, orchestration and architecture evolution",
+      "doi": "10.5281/zenodo.23651309",
+      "doi_url": "https://doi.org/10.5281/zenodo.23651309",
+      "version": "1.0",
+      "category": "Historical technical report",
+      "sha256": "823caea4511546dcfecf4454185fce8c1bf143b6259b900fbaee3ea728d73848",
+      "size_bytes": 46701
+    },
+    {
+      "title": "Source-Locked Architecture",
+      "filename": "Source Locked Architecture V1.0.md",
+      "description": "Source integrity, derivation tracking, provenance and verifiable state transitions",
+      "doi": "10.5281/zenodo.23650412",
+      "doi_url": "https://doi.org/10.5281/zenodo.23650412",
+      "version": "1.0",
+      "category": "Architecture framework",
+      "sha256": "45ea2e3580c7dcd8eb76db5e546a0e0f3197917be127244f9ff7bda18327a29d",
+      "size_bytes": 40686
+    },
+    {
+      "title": "Semantic Coherence Index (SCI)",
+      "filename": "Semantic Coherence Index V1.0.md",
+      "description": "An empirical framework for longitudinal semantic drift, alignment tax and cross-model consistency",
+      "doi": "10.5281/zenodo.23650049",
+      "doi_url": "https://doi.org/10.5281/zenodo.23650049",
+      "version": "1.0",
+      "category": "Measurement framework",
+      "sha256": "e8fef2eee664bb5f1961af2fe9a5e1d449a81a2a9ba7e2ec4b32345d798e11ad",
+      "size_bytes": 27604
+    },
+    {
+      "title": "Multi-Agent Architecture",
+      "filename": "Multi-Agent Architecture V1.0.md",
+      "description": "Runtime evaluation, failure analysis and engineering of a distributed LLM architecture",
+      "doi": "10.5281/zenodo.23649577",
+      "doi_url": "https://doi.org/10.5281/zenodo.23649577",
+      "version": "1.0",
+      "category": "Implementation study",
+      "sha256": "a1d8aff99653a54465a0a1de3e3c65f3bfd65d311fc33bff1363d2c1e37493b3",
+      "size_bytes": 29840
+    }
+  ]
+}
